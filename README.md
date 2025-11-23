@@ -1,4 +1,4 @@
-# openai_assistants_api
+# Openai Assistants Api
 
 Purpose
 - Small example wrapper showing how this workspace calls the OpenAI Chat API from a simple Python script. The runtime entrypoint is `openai_assistants_api/main.py`.
